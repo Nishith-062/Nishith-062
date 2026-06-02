@@ -18,7 +18,7 @@ I'm a **MERN Stack Developer** and **Computer Science undergraduate** at CBIT, H
 
 - 🎓 B.E. in CSE (AI & ML) @ **CBIT Hyderabad** — CGPA: **9.01 / 10** (2023–2027)
 - 💼 **ML Intern** @ AICTE & Edunet Foundation (May–Jul 2025)
-- 🏆 **2nd Runner-Up** at VJ Hackathon 2025 among 50+ teams
+- 🏆 **2nd Runner-Up** at VJ Hackathon 2025 among 1500+ teams
 - 🔭 Currently building **[VEDA](https://github.com/Nishith-062/VEDA)** — a remote classroom platform
 - 📫 Reach me at: **nishith.cbit@gmail.com** 
 
@@ -74,7 +74,7 @@ I'm a **MERN Stack Developer** and **Computer Science undergraduate** at CBIT, H
 
 ## 🏆 Achievements & Highlights
 
-| 🥉 | **2nd Runner-Up** — VJ Hackathon 2025 among 50+ teams |
+| 🥉 | **2nd Runner-Up** — VJ Hackathon 2025 among 1500+ teams |
 |---|---|
 | 🏅 | **Special Mention** — CBIT Hacktoberfest for product completeness & innovation |
 | 🦈 | **Pull Shark** GitHub Achievement — active open source contributor |
